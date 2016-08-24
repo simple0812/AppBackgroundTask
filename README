@@ -1,0 +1,2 @@
+1.后台任务类必须是sealed
+2.任务的类库类型必须是Windows Runtime Component
